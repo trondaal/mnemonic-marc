@@ -2,7 +2,7 @@
   "name": "mrk",
   "displayName": "Mnemonic marc",
   "description": "Language support for mnemonic marc",
-  "version": "1.1.0",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.71.0"
   },
