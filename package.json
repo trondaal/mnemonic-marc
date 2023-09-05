@@ -2,7 +2,7 @@
   "name": "mrk",
   "displayName": "Mnemonic marc",
   "description": "Language support for mnemonic marc",
-  "version": "0.0.2",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -13,16 +13,25 @@
   "license": "MIT",
   "publisher": "TrondAalberg",
   "contributes": {
-    "languages": [{
-      "id": "mrk",
-      "aliases": ["mrk", "mrk"],
-      "extensions": [".mrk"],
-      "configuration": "./language-configuration.json"
-    }],
-    "grammars": [{
-      "language": "mrk",
-      "scopeName": "source.mrk",
-      "path": "./syntaxes/mrk.tmLanguage.json"
-    }]
+    "languages": [
+      {
+        "id": "mrk",
+        "aliases": [
+          "mrk",
+          "mrk"
+        ],
+        "extensions": [
+          ".mrk"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "mrk",
+        "scopeName": "source.mrk",
+        "path": "./syntaxes/mrk.tmLanguage.json"
+      }
+    ]
   }
 }
