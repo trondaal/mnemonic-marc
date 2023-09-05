@@ -15,7 +15,7 @@ Color scheme is adapted to light mode, showing tags in blue, codes in red and UR
 ## Release Notes
 
 
-### 0.1.0
+### 0.1.1
 
 Initial release of mnemonic marc
 
