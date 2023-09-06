@@ -1,7 +1,7 @@
 {
-  "name": "mrk",
-  "displayName": "Mnemonic marc",
-  "description": "Language support for mnemonic marc",
+  "name": "mrk-syntax-highligting",
+  "displayName": "Mnemonic marc syntax higlighting",
+  "description": "Language support for syntax higlighting of mnemonic marc (mrk)",
   "version": "0.0.4",
   "engines": {
     "vscode": "^1.71.0"
